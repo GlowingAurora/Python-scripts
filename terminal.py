@@ -1,3 +1,5 @@
+# i tried making multitool :/
+# dont think i ever end it
 from time import sleep
 
 sleep(1)

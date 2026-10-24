@@ -22,7 +22,6 @@ def colored(
         "light_cyan": 96,
         "white": 97,
     }
-    rgb_back_fmt_str = "\033[48;2;%d;%d;%dm%s"
     rgb_fore_fmt_str = "\033[38;2;%d;%d;%dm%s"
     fmt_str = "\033[%dm%s"
     if color is not None:
